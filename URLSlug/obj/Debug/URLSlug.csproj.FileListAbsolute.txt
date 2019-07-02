@@ -1,0 +1,6 @@
+C:\Users\Salih\source\repos\URLSlug\URLSlug\bin\Debug\URLSlug.exe.config
+C:\Users\Salih\source\repos\URLSlug\URLSlug\bin\Debug\URLSlug.exe
+C:\Users\Salih\source\repos\URLSlug\URLSlug\bin\Debug\URLSlug.pdb
+C:\Users\Salih\source\repos\URLSlug\URLSlug\obj\Debug\URLSlug.csproj.CoreCompileInputs.cache
+C:\Users\Salih\source\repos\URLSlug\URLSlug\obj\Debug\URLSlug.exe
+C:\Users\Salih\source\repos\URLSlug\URLSlug\obj\Debug\URLSlug.pdb
