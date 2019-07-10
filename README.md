@@ -1,2 +1,1 @@
-
-# Klasor isimlerini turkce karakter sorunu icin
+ user-friendly folder name
